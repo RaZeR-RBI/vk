@@ -1,3 +1,3 @@
-dotnet build -c Release src/Vk.Generator/Vk.Generator.csproj
-dotnet build -c Release src/Vk.Rewrite/Vk.Rewrite.csproj
-dotnet pack -c Release src/Vk/Vk.csproj
+dotnet build -c Release src/vk.Generator/vk.Generator.csproj
+dotnet build -c Release src/vk.Rewrite/vk.Rewrite.csproj
+dotnet pack -c Release src/vk/vk.csproj

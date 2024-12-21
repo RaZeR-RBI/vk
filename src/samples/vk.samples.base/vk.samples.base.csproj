@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk" DefaultTargets="Build;Publish">
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>net6</TargetFramework>
     <AssemblyName>vk.samples.base</AssemblyName>
     <RootNamespace>Vk.Samples</RootNamespace>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
